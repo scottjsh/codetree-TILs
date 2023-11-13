@@ -8,10 +8,11 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-27|290xp|1일째🔥|
+28|290xp|1일째🔥|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
+|[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[[개념]단어 출력](https://www.codetree.ai/missions/4/problems/print-word)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/scottjsh/codetree-TILs/blob/main/231113/%EB%8B%A8%EC%96%B4%20%EC%B6%9C%EB%A0%A5/print-word.py)|
 |[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[[개념]문장 출력](https://www.codetree.ai/missions/4/problems/print-sentence)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/scottjsh/codetree-TILs/blob/main/231113/%EB%AC%B8%EC%9E%A5%20%EC%B6%9C%EB%A0%A5/print-sentence.py)|
 |[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[[개념]따옴표 출력](https://www.codetree.ai/missions/4/problems/print-quote)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/scottjsh/codetree-TILs/blob/main/231113/%EB%94%B0%EC%98%B4%ED%91%9C%20%EC%B6%9C%EB%A0%A5/print-quote.py)|
 |[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[[개념]2줄 출력](https://www.codetree.ai/missions/4/problems/print-two-lines)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/scottjsh/codetree-TILs/blob/main/231113/2%EC%A4%84%20%EC%B6%9C%EB%A0%A5/print-two-lines.py)|
