@@ -7,7 +7,10 @@ def print_pattern(n):
         "Students!"
     ]
     
-    for _ in range(n):
+    for i in range(n):
+        if i > 0:
+            print()  # 빈 줄 추가
+            
         for line in pattern:
             print(line)
 
