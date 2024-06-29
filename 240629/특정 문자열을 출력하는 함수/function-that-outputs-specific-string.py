@@ -3,7 +3,7 @@ def print_pattern(n):
         "Hello",
         "#@#@#@#@#@",
         "CodeTree",
-        "#@#@#@#@#@",
+        "@#@#@#@#@#",
         "Students!"
     ]
     
